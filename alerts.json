@@ -1,0 +1,22 @@
+{
+  "alerts": [
+    {
+      "user_id": "572483250283610112",
+      "username": "ianfajardo",
+      "channel_id": "818295613434888192",
+      "symbol": "GME",
+      "start": 194.5,
+      "target": "750.00",
+      "timestamp": "2021-03-09T04:56:57.423Z"
+    },
+    {
+      "user_id": "572483250283610112",
+      "username": "ianfajardo",
+      "channel_id": "818295613434888192",
+      "symbol": "AAPL",
+      "start": 116.36,
+      "target": "300.45",
+      "timestamp": "2021-03-09T05:06:43.991Z"
+    }
+  ]
+}
